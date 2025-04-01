@@ -5,6 +5,8 @@ This project is a **Python-based** application that automates the process of gen
 The application is designed to handle *large video files* (up to 10GB) and is ideal for filmmakers, educators, or anyone working with multilingual content.  
 
 ---
+> <a href="https://doi.org/10.5281/zenodo.15119680"><img src="https://zenodo.org/badge/901918523.svg" alt="DOI"></a>
+
 
 ### **The Fina Look**  
 
